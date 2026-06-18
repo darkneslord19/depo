@@ -1,0 +1,7 @@
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Node (kullanmıyoruz ama önlem)
+node_modules/
+.env
